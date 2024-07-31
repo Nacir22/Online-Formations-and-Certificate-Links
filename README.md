@@ -2,7 +2,7 @@
 Welcome to my GitHub repository! This README file provides an overview of the online courses I have completed, along with links to the corresponding certificates.
 
 
-•	 **<span style="font-size: 1.2em;">Gestion de projet Scrum : le guide complet </span>**   
+•	 **<span style="font-size: 1.5em;">Gestion de projet Scrum : le guide complet </span>**   
 
  [ Certificate Link](https://www.udemy.com/certificate/UC-9ba6a6a1-f15e-4959-8d51-e984195e1e88/)
  
