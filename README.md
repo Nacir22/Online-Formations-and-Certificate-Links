@@ -38,6 +38,10 @@ Welcome to my GitHub repository! This README file provides an overview of the on
 
  [ Certificate Link](https://www.udemy.com/certificate/UC-9ed38e58-92ef-49b5-84ee-40b770e0a0a4/)
  
+ ## •	 ETL using Python: from MySQL to BigQuery
+
+ [ Certificate Link](https://www.udemy.com/certificate/UC-a88282d1-3e3e-416f-9a69-83076a9ab828/)
+
  
  # 4- Data Engineering on Snowflake
 
