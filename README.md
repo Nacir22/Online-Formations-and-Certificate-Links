@@ -20,6 +20,10 @@ Welcome to my GitHub repository! This README file provides an overview of the on
  
 ## 2- Data Engineering on Azure
 
+#### •	Azure Databricks & Spark For Data Engineers (PySpark / SQL)  
+
+ [ Certificate Link]((https://www.udemy.com/certificate/UC-e38da50d-5756-4ac1-9762-69d7803e049f/)
+
 #### •	Azure Data Factory | Data Engineering on Azure and Fabric   
 
  [ Certificate Link](https://www.udemy.com/certificate/UC-560cd565-ddcd-4863-a746-51ccb8e832aa/)
