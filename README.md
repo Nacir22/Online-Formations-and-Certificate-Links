@@ -4,7 +4,10 @@ Welcome to my GitHub repository! This README file provides an overview of the on
  
  
 ## 1- MLOPS, LLMOps & Generative AI
+#### •  MLOPS : Production Ready Data Science projects
 
+ [ Certificate Link](https://learn.ineuron.ai/certificate/9f1bb798-ffa6-430d-91dc-858a2fdc2c53)
+ 
  #### •	Practical MLOps: AWS Mastering for Data Scientists & DevOps    
 
  [ Certificate Link](https://www.udemy.com/certificate/UC-d3b31f14-7618-4b7b-a5d5-b4c3932a6de7/)
