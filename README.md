@@ -24,6 +24,10 @@ Welcome to my GitHub repository! This README file provides an overview of the on
  
 ## 2- Data Engineering on Azure
 
+#### •	 Azure Synapse Analytics For Data Engineers -Hands On Project
+
+ [ Certificate Link](https://www.udemy.com/certificate/UC-85ace6da-790a-4e77-af32-8376031549d1/)
+
 #### •	Azure Databricks & Spark For Data Engineers (PySpark / SQL)  
 
  [ Certificate Link](https://www.udemy.com/certificate/UC-e38da50d-5756-4ac1-9762-69d7803e049f/)
