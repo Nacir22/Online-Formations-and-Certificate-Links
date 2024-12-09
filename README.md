@@ -3,7 +3,7 @@ Welcome to my GitHub repository! This README file provides an overview of the on
 
  
  
-## 1- MLOPS, LLMOps & Generative AI
+## 1- MLOPS, LLM & Generative AI
 
 #### •  MLOPS : Production Ready Data Science projects
 
