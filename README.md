@@ -11,7 +11,7 @@ Welcome to my GitHub repository! This README file provides an overview of the on
  
  #### •	Practical MLOps: AWS Mastering for Data Scientists & DevOps    
 
- [ Certificate Link](https://www.udemy.com/certificate/UC-d3b31f14-7618-4b7b-a5d5-b4c3932a6de7/)
+ [ Certificate Link](https://www.udemy.com/certificate/UC-93721944-fe8e-4291-80c4-423d3fbc8b05/)
  
 #### •	LLMOps Masterclass 2024 - Generative AI - MLOps – AIOp                                                                                   
 
