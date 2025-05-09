@@ -2,7 +2,7 @@
 Welcome to my GitHub repository! This README file provides an overview of the online courses I have completed, along with links to the corresponding certificates.
 
 ## Learn how to leverage the power of AWS SageMaker for your Machine Learning and AI Projects on AWS!
-  [ Certificate Link]([https://learn.ineuron.ai/certificate/9f1bb798-ffa6-430d-91dc-858a2fdc2c53](https://www.udemy.com/certificate/UC-b71f9fc4-0654-4fa2-a443-421e77391fe6/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com))
+  [ Certificate Link](https://www.udemy.com/certificate/UC-b71f9fc4-0654-4fa2-a443-421e77391fe6/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
 ## 1- MLOPS, LLM & Generative AI
 
 #### •  MLOPS : Production Ready Data Science projects
