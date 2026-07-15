@@ -4,11 +4,6 @@ Welcome to my GitHub repository! This README file provides an overview of the on
 ## Learn how to leverage the power of AWS SageMaker for your Machine Learning and AI Projects on AWS!
   [ Certificate Link](https://www.udemy.com/certificate/UC-b71f9fc4-0654-4fa2-a443-421e77391fe6/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
 ## 1- MLOPS, LLM & Generative AI
-
-#### •  MLOPS : Production Ready Data Science projects
-
- [ Certificate Link](https://learn.ineuron.ai/certificate/9f1bb798-ffa6-430d-91dc-858a2fdc2c53)
- 
  #### •	Practical MLOps: AWS Mastering for Data Scientists & DevOps    
 
  [ Certificate Link](https://www.udemy.com/certificate/UC-93721944-fe8e-4291-80c4-423d3fbc8b05/)
@@ -21,6 +16,10 @@ Welcome to my GitHub repository! This README file provides an overview of the on
   [ Certificate Link](https://www.udemy.com/certificate/UC-d3b31f14-7618-4b7b-a5d5-b4c3932a6de7/)
  #### •	Real-world Advanced Machine Learning Ops on Google Cloud
 [ Certificate Link](https://www.udemy.com/certificate/UC-93296dbe-491e-4be8-943e-a68c205e3363/)
+
+#### •  MLOPS : Production Ready Data Science projects
+
+ [ Certificate Link](https://learn.ineuron.ai/certificate/9f1bb798-ffa6-430d-91dc-858a2fdc2c53)
  
 ## 2- Data Engineering on Azure
 
